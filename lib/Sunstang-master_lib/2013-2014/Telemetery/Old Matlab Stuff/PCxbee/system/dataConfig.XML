@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<solarcar>
+	<subsystem id="AB" name="Battery System">
+		<packet id = "0">
+			<data type = "uint8_t" bytes="1">Voltage</data>
+			<data type = "uint8_t" bytes="1">Current</data>
+			<data type = "uint8_t" bytes="1">Temperature</data>
+			<data type = "uint8_t" bytes="1">Relay</data>
+		</packet>
+	</subsystem>
+	
+	<subsystem id="CD" name ="Driver Interface">
+		<packet id = "0">
+			<data type = "uint8_t" bytes = "1">Accelerator</data>
+			<data type = "uint8_t" bytes = "1">Brakes</data>
+		</packet>
+	</subsystem>
+
+	<subsystem id="45" name = "Motor">
+		<packet id = "0">
+			<data type = "uint8_t" bytes = "1">Torque</data>
+		</packet>
+	</subsystem>
+
+</solarcar>

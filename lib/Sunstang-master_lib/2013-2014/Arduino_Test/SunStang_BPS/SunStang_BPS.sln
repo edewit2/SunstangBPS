@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SunStang_BPS", "SunStang_BPS.vcxproj", "{B82FBC40-CE51-475D-B9CF-CF1DAE3632DB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManInTheMiddle", "..\ManInTheMiddle\ManInTheMiddle.vcxproj", "{3D37CD65-0712-4ABA-A88E-FCD9041FF93C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "readger", "..\readger\readger.vcxproj", "{7B2F8F19-F98E-4CD1-830C-535EAC825E32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TESTER_SunStang_BPS", "..\TESTER_SunStang_BPS\TESTER_SunStang_BPS.vcxproj", "{C39DB575-7808-488E-AFBE-53CF001ACEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82FBC40-CE51-475D-B9CF-CF1DAE3632DB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B82FBC40-CE51-475D-B9CF-CF1DAE3632DB}.Debug|Win32.Build.0 = Debug|Win32
+		{B82FBC40-CE51-475D-B9CF-CF1DAE3632DB}.Release|Win32.ActiveCfg = Release|Win32
+		{B82FBC40-CE51-475D-B9CF-CF1DAE3632DB}.Release|Win32.Build.0 = Release|Win32
+		{3D37CD65-0712-4ABA-A88E-FCD9041FF93C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3D37CD65-0712-4ABA-A88E-FCD9041FF93C}.Debug|Win32.Build.0 = Debug|Win32
+		{3D37CD65-0712-4ABA-A88E-FCD9041FF93C}.Release|Win32.ActiveCfg = Release|Win32
+		{3D37CD65-0712-4ABA-A88E-FCD9041FF93C}.Release|Win32.Build.0 = Release|Win32
+		{7B2F8F19-F98E-4CD1-830C-535EAC825E32}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B2F8F19-F98E-4CD1-830C-535EAC825E32}.Debug|Win32.Build.0 = Debug|Win32
+		{7B2F8F19-F98E-4CD1-830C-535EAC825E32}.Release|Win32.ActiveCfg = Release|Win32
+		{7B2F8F19-F98E-4CD1-830C-535EAC825E32}.Release|Win32.Build.0 = Release|Win32
+		{C39DB575-7808-488E-AFBE-53CF001ACEEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C39DB575-7808-488E-AFBE-53CF001ACEEE}.Debug|Win32.Build.0 = Debug|Win32
+		{C39DB575-7808-488E-AFBE-53CF001ACEEE}.Release|Win32.ActiveCfg = Release|Win32
+		{C39DB575-7808-488E-AFBE-53CF001ACEEE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

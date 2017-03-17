@@ -1,0 +1,12 @@
+{
+  "C:\\Users\\Peter\\Documents\\SunStang\\AndroidGPS\\GPSLogger\\gen": {
+    "location": "C:\\Users\\Peter\\Documents\\SunStang\\AndroidGPS\\GPSLogger\\gen",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Peter\\Documents\\SunStang\\AndroidGPS\\GPSLogger\\gen\u0027. Skipped."
+  },
+  "C:\\Users\\Peter\\AppData\\Local\\Android\\android-sdk\\platforms\\android-18\\android.jar": {
+    "location": "C:\\Users\\Peter\\AppData\\Local\\Android\\android-sdk\\platforms\\android-18\\android.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\Peter\\AppData\\Local\\Android\\android-sdk\\platforms\\android-18\\android.jar\u0027. Neither fingerprint \u0027f4f6d0685c8372195356c55b8578565fe2487825\u0027 nor symbolic name \u0027android\u0027 are known."
+  }
+}

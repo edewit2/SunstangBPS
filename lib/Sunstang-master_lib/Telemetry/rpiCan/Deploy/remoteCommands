@@ -1,0 +1,2 @@
+cd sunstangCAN/
+make > buildlog 2>&1

@@ -1,0 +1,28 @@
+[
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f4f6d0685c8372195356c55b8578565fe2487825",
+    "jarFileModificationDate": "2013-09-23T00:53:40.891-04:00",
+    "location": "C:\\Users\\Peter\\AppData\\Local\\Android\\android-sdk\\platforms\\android-18\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5896b0a4e377ac4242eb2bc785220c1c4fc052f4",
+    "jarFileModificationDate": "2014-01-16T22:12:53.001-05:00",
+    "location": "C:\\Users\\Peter\\Documents\\SunStang\\AndroidGPS\\GPSLogger\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  }
+]
