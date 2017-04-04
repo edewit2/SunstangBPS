@@ -1,0 +1,12 @@
+BPS 2017 
+
+Last Updated: April 3 2017
+By: Edward DeWit
+
+TODO
+
+LTC6804 class header file  // make the LTC6804 class found in 2016 code into header file to import into 2017 code
+CAN	// send CAN messages from controller
+Relay control // write BPS control logic
+
+probably more...
